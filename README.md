@@ -12,7 +12,7 @@ The program gets a file path from the user which contains one or more arrays, an
 
 ## User Attantion!
 ```diff
-- * **The file should only be of the folowing formats : CSV, TSV, JSON.**
+* -  **The file should only be of the folowing formats : CSV, TSV, JSON.**
 - * **The file should only contain a single array Or a list of arrays of unsigned integers.**
 
 
