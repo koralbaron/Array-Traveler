@@ -1,9 +1,9 @@
 # Array-Traveler
 The program gets a file path from the user which contains one or more arrays, and prints to the screen a table whether reaching the last element for each array is possible, according to a set of rules.
 
-Language: Python<br/>
-Version: 3.6<br/>
-Libraries: numpy, colorama, termcolor, prettytable.       
+**Language:** Python<br/>
+**Version:** 3.6<br/>
+**Libraries:** numpy, colorama, termcolor, prettytable.       
 
 ## Rulse
 1. The first index is 0, that’s where the algorithm starts.
