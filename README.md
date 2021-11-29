@@ -11,7 +11,7 @@ The program gets a file path from the user which contains one or more arrays, an
 * **[4, 2, 1, 3, 2, 2, 1000, 1]** will return FALSE, since there is no route from the first element to the last element.
 
 ## User Attantion!
-* **The file should only be of the folowing formats : CSV, TSV, JSON.**
+* **```diff - The file should only be of the folowing formats : CSV, TSV, JSON.**
 * **The file should only contain a single array Or a list of arrays of unsigned integers.**
 
 
