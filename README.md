@@ -8,7 +8,9 @@ The program gets a file path from the user which contains one or more arrays, an
 ## Examples
 * **[4, 4, 1, 1, 2, 2, 1000, 1]** will return TRUE,
 since there is a route from the first element to the last element which goes: 0 (4) → 4 (2) → 2 (1) → 1 (4) → 5 (2) → 7] .
+
 * **[4, 2, 1, 3, 2, 2, 1000, 1]** will return FALSE,
+
 since there is no route from the first element to the last element.
 
 # User Attantion!    
